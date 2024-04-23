@@ -9,6 +9,8 @@ Our project aims to leverage class lectures to create a lecture summarizer and a
 ## Text Summarization
 **test_summarizer_v2.ipynb**: Summarizing class lectures involves condensing the key points, concepts, and discussions covered during a lecture into concise and easily digestible information. This notebook explores the implementation of various text summarization models including BART, BERT, PEGASUS, T5, and LED. The performance metrics used for evaluation include ROUGE and BLEU.
 
+<img width="498" alt="Evaluation Metrics" src="https://github.com/BhargavN02/NLP-Based-Teaching-Assistant/assets/72100583/5289d4e5-d708-4608-a29a-5183808c078d">
+
 ## Chatbot
 **chatapp.py**: This script implements a chatbot using the llama-2-70b language model. The chatbot is designed to interact with users in a conversational manner, providing responses to questions about class lectures. It utilizes components such as ConversationalRetrievalChain, HuggingFaceEmbeddings, Replicate (llama-2-70b), CharacterTextSplitter, and FAISS to effectively respond to user queries based on lecture content.
 
