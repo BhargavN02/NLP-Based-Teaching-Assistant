@@ -61,3 +61,5 @@ This project aims to create a chatbot capable of answering questions based on up
 - Integration of multi-modal learning techniques to understand images alongside text.
 - Video segmentation and analysis to enhance the chatbot's capabilities.
 - Continuous refinement and optimization of the chatbot's responses based on user feedback.
+
+Please note that the API key used to access the Replicate (https://replicate.com/) portal is private and should not be exposed in public repositories or shared with unauthorized users. The main reason we couldn't deploy the Streamlit application directly is due to security concerns. Specifically, we cannot expose the 'Replicate' portal key to GitHub. This key is sensitive information that grants access to the Replicate AI services.
